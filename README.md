@@ -1,2 +1,2 @@
-This repository consists of frontend of Amazon clone
-Used HTML and CSS
+-	Created a static clone of Amazon’s front page with precise replication of layout, product listings, and navigation menus using HTML5 and CSS3.
+-	Ensured responsive design for cross-device compatibility, focusing on semantic HTML and CSS techniques
